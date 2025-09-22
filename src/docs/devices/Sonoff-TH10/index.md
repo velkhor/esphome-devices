@@ -33,8 +33,8 @@ substitutions:
 esphome:
   name: "${name}"
   friendly_name: "${friendly_name}"
-  esp8266:
-    board: esp01_1m
+esp8266:
+  board: esp01_1m
 
 # Enable logging
 logger:
